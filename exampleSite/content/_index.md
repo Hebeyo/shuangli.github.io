@@ -16,7 +16,7 @@ I am currently a Ph.D. student in the School of Computer Science at Wuhan Univer
 
 # 📖 Educations {#educations}
 - Ph.D. in Engineering, Wuhan University, 2023–present  
-- MSc in Computer Science, Durham University, 2021–2023
+- MSc in Scientific Computing and Data Analysis, Durham University, 2021–2023
 - BSc in Mathematics, SCUT, 2016–2020
 
 # 🎖 Honors and Awards {#honors-and-awards}
