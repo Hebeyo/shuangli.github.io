@@ -2,7 +2,7 @@
 title: "Shuang Li"
 subtitle: "Ph.D. Candidate at Wuhan University"
 description: >-
-Shuang Li is a Ph.D. candidate in software engineering at Wuhan University. Her research focuses on software performance engineering, testing, and AI-generated code.
+    Shuang Li is a Ph.D. candidate in software engineering at Wuhan University. Her research focuses on software performance engineering, testing, and AI-generated code.
 ---
 
 # About Me {#about-me}
