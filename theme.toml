@@ -1,16 +1,9 @@
-name = 'Zero Academic Page'
-license = 'GPL-3.0'
-licenselink = 'https://github.com/geekifan/zero-academic-page/LICENSE'
-description = 'A simple but modern academic page theme for researchers'
+baseURL = "https://shuangli.github.io/"
+languageCode = "en-us"
+title = "Shuang Li"
+theme = "zero-academic-page"
 
-# The home page of the theme, where the source can be found
-homepage = 'https://github.com/geekifan/zero-academic-page'
-
-# If you have a running demo of the theme
-demosite = 'https://geekifan.github.io/zero-academic-page'
-
-# If the theme has multiple authors
-authors = [
-  {name = 'Yifan', homepage = 'https://github.com/geekifan'},
-  {name = 'Ruopeng', homepage = 'https://github.com/HELLORPG'}
-]
+[params]
+  author = "Shuang Li"
+  description = "Ph.D. Candidate in Software Engineering at Wuhan University"
+  email = "shuangli.cs@whu.edu.cn"
